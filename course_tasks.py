@@ -1,8 +1,8 @@
+import calendar
+
 # 1.3.2
 print("1.3.2")
 import this
-
-import calendar
 
 # 2.3.3
 print("\n2.3.3")
@@ -15,7 +15,7 @@ print(not bool(sum % 3))
 
 # 3.2.1
 print("\n3.2.1")
-print('"Shuffle, Shuffle, Shuffle", say it together!\n Change colors and directions,\n Don\'t back down and stop\
+print('"Shuffle, Shuffle, Shuffle", say it together!\nChange colors and directions,\nDon\'t back down and stop\
  the player!\n\t\t Do you want to play Taki?\n\t\t Press y\\n')
 
 # 3.3.3
